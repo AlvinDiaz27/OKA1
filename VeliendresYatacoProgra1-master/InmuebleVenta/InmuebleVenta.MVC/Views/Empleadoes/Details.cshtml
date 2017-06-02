@@ -1,0 +1,67 @@
+﻿@model InmuebleVenta.Entities.Empleado
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Empleado</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreEmpleado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreEmpleado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ApeEmpleado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ApeEmpleado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TelefonoEmpleado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TelefonoEmpleado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DireccionEmpleado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DireccionEmpleado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.VisitaId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.VisitaId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ContratoId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ContratoId)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.EmpleadoDNI }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

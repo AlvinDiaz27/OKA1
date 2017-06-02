@@ -1,0 +1,75 @@
+﻿@model InmuebleVenta.Entities.Propietario
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Propietario</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Contrato.NombreCliente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Contrato.NombreCliente)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NombrePropietario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombrePropietario)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ApePropietario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ApePropietario)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TelefonoPropietario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TelefonoPropietario)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DireccionPropietario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DireccionPropietario)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.InmuebleId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.InmuebleId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ContratoId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ContratoId)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.PropietarioDNI }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

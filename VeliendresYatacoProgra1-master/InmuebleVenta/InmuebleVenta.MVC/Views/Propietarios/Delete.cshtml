@@ -1,0 +1,81 @@
+﻿@model InmuebleVenta.Entities.Propietario
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Propietario</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Contrato.NombreCliente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Contrato.NombreCliente)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NombrePropietario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombrePropietario)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ApePropietario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ApePropietario)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TelefonoPropietario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TelefonoPropietario)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DireccionPropietario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DireccionPropietario)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.InmuebleId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.InmuebleId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ContratoId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ContratoId)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

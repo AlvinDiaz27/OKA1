@@ -1,0 +1,70 @@
+﻿@model IEnumerable<InmuebleVenta.Entities.Propietario>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Contrato.NombreCliente)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NombrePropietario)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ApePropietario)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TelefonoPropietario)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DireccionPropietario)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.InmuebleId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ContratoId)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Contrato.NombreCliente)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NombrePropietario)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ApePropietario)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TelefonoPropietario)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DireccionPropietario)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.InmuebleId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ContratoId)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.PropietarioDNI }) |
+            @Html.ActionLink("Details", "Details", new { id=item.PropietarioDNI }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.PropietarioDNI })
+        </td>
+    </tr>
+}
+
+</table>

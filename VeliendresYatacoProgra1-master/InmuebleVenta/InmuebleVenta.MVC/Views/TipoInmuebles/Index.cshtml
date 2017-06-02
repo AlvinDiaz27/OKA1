@@ -1,0 +1,94 @@
+﻿@model IEnumerable<InmuebleVenta.Entities.TipoInmueble>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Contrato.NombreCliente)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Propietario.NombrePropietario)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ubigeo.UbigeoId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Estado)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PrecioInmueble)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DireccionInmueble)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TipoInmuebleId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ContratoId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.VisitaId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Tipo)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Contrato.NombreCliente)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Propietario.NombrePropietario)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ubigeo.UbigeoId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Estado)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PrecioInmueble)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DireccionInmueble)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TipoInmuebleId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ContratoId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.VisitaId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Descripcion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Tipo)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.InmuebleId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.InmuebleId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.InmuebleId })
+        </td>
+    </tr>
+}
+
+</table>

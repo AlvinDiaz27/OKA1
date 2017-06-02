@@ -1,0 +1,107 @@
+﻿@model InmuebleVenta.Entities.TipoInmueble
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>TipoInmueble</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Contrato.NombreCliente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Contrato.NombreCliente)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Propietario.NombrePropietario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Propietario.NombrePropietario)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ubigeo.UbigeoId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ubigeo.UbigeoId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Estado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Estado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrecioInmueble)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrecioInmueble)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DireccionInmueble)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DireccionInmueble)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TipoInmuebleId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TipoInmuebleId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ContratoId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ContratoId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.VisitaId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.VisitaId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tipo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tipo)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.InmuebleId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

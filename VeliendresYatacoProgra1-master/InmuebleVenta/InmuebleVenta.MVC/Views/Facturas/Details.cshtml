@@ -1,0 +1,51 @@
+﻿@model InmuebleVenta.Entities.Factura
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Factura</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Fecha)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fecha)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Monto)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Monto)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ContratoResarvaId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ContratoResarvaId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ContratoAlquilerId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ContratoAlquilerId)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ComprobanteId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

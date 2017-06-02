@@ -1,0 +1,43 @@
+﻿@model InmuebleVenta.Entities.Visita
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Visita</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Cliente.NombreCliente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cliente.NombreCliente)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Empleado.NombreEmpleado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Empleado.NombreEmpleado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FechaVisita)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FechaVisita)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.VisitaId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

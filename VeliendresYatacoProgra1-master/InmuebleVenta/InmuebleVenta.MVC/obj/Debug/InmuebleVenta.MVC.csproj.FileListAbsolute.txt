@@ -1,0 +1,256 @@
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\ApplicationInsights.config
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\csc.exe
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\csc.exe.config
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\csc.rsp
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\csi.exe
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\csi.rsp
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\vbc.exe
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\vbc.exe.config
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\vbc.rsp
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\InmuebleVenta.MVC.dll.config
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\InmuebleVenta.MVC.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\InmuebleVenta.MVC.pdb
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\Antlr3.Runtime.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\EntityFramework.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\InmuebleVenta.Entities.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\InmuebleVenta.Persistence.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\Newtonsoft.Json.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.Helpers.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.Mvc.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.Optimization.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.Razor.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.WebPages.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\WebGrease.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\InmuebleVenta.Entities.pdb
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\InmuebleVenta.Persistence.pdb
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\InmuebleVenta.Persistence.dll.config
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\EntityFramework.xml
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.Helpers.xml
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.Mvc.xml
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.Optimization.xml
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.Razor.xml
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.WebPages.xml
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\Newtonsoft.Json.xml
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\obj\Debug\InmuebleVenta.MVC.csprojResolveAssemblyReference.cache
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\obj\Debug\InmuebleVenta.MVC.dll
+C:\Users\HANSON\Desktop\InmuebleVenta\InmuebleVenta.MVC\obj\Debug\InmuebleVenta.MVC.pdb
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\ApplicationInsights.config
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\csc.exe
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\csc.exe.config
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\csc.rsp
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\csi.exe
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\csi.rsp
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\vbc.exe
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\vbc.exe.config
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\vbc.rsp
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\InmuebleVenta.MVC.dll.config
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\InmuebleVenta.MVC.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\InmuebleVenta.MVC.pdb
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\Antlr3.Runtime.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\EntityFramework.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\InmuebleVenta.Entities.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\InmuebleVenta.Persistence.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\Newtonsoft.Json.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.Helpers.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.Mvc.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.Optimization.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.Razor.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.WebPages.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\WebGrease.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\InmuebleVenta.Entities.pdb
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\InmuebleVenta.Persistence.pdb
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\InmuebleVenta.Persistence.dll.config
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\EntityFramework.xml
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.Helpers.xml
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.Mvc.xml
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.Optimization.xml
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.Razor.xml
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.WebPages.xml
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\Newtonsoft.Json.xml
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\obj\Debug\InmuebleVenta.MVC.csprojResolveAssemblyReference.cache
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\obj\Debug\InmuebleVenta.MVC.dll
+C:\Users\HANSON\Documents\Visual Studio 2017\Projects\VeliendresYatacoProgra1\InmuebleVenta\InmuebleVenta.MVC\obj\Debug\InmuebleVenta.MVC.pdb
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\ApplicationInsights.config
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\csc.exe
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\csc.exe.config
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\csc.rsp
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\csi.exe
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\csi.rsp
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\vbc.exe
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\vbc.exe.config
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\vbc.rsp
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\InmuebleVenta.MVC.dll.config
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\InmuebleVenta.MVC.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\InmuebleVenta.MVC.pdb
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\Antlr3.Runtime.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\EntityFramework.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\InmuebleVenta.Entities.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\InmuebleVenta.Persistence.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\Newtonsoft.Json.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\Ninject.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\Ninject.Web.Common.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.Helpers.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.Mvc.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.Optimization.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.Razor.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.WebPages.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\WebActivatorEx.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\WebGrease.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\InmuebleVenta.Entities.pdb
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\InmuebleVenta.Persistence.pdb
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\InmuebleVenta.Persistence.dll.config
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\EntityFramework.xml
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\Ninject.xml
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\Ninject.Web.Common.xml
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.Helpers.xml
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.Mvc.xml
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.Optimization.xml
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.Razor.xml
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.WebPages.xml
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\Newtonsoft.Json.xml
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\obj\Debug\InmuebleVenta.MVC.csprojResolveAssemblyReference.cache
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\obj\Debug\InmuebleVenta.MVC.dll
+C:\Users\KEVIN-ALVIN\Desktop\PROGRA\VeliendresYatacoProgra1-master\InmuebleVenta\InmuebleVenta.MVC\obj\Debug\InmuebleVenta.MVC.pdb

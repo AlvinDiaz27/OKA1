@@ -1,0 +1,97 @@
+﻿@model InmuebleVenta.Entities.Inmueble
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Inmueble</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Contrato.NombreCliente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Contrato.NombreCliente)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Propietario.NombrePropietario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Propietario.NombrePropietario)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ubigeo.UbigeoId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ubigeo.UbigeoId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Estado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Estado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrecioInmueble)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrecioInmueble)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DireccionInmueble)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DireccionInmueble)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TipoInmuebleId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TipoInmuebleId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ContratoId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ContratoId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.VisitaId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.VisitaId)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

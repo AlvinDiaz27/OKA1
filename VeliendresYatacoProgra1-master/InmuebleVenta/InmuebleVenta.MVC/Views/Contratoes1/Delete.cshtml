@@ -1,0 +1,121 @@
+﻿@model InmuebleVenta.Entities.Contrato
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Contrato</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Cliente.NombreCliente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cliente.NombreCliente)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Empleado.NombreEmpleado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Empleado.NombreEmpleado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Fecha)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fecha)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreCliente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreCliente)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ApeCliente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ApeCliente)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PropietarioDNI)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PropietarioDNI)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ApePropietario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ApePropietario)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NombrePropietario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombrePropietario)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.InmuebleId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.InmuebleId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrecioInmueble)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrecioInmueble)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreEmpleado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreEmpleado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ApeEmpleado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ApeEmpleado)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

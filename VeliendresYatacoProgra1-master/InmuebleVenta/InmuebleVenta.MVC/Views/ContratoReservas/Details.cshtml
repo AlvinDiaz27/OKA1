@@ -1,0 +1,123 @@
+﻿@model InmuebleVenta.Entities.ContratoReserva
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ContratoReserva</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Cliente.NombreCliente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cliente.NombreCliente)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Empleado.NombreEmpleado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Empleado.NombreEmpleado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Fecha)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fecha)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreCliente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreCliente)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ApeCliente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ApeCliente)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PropietarioDNI)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PropietarioDNI)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ApePropietario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ApePropietario)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NombrePropietario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombrePropietario)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.InmuebleId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.InmuebleId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrecioInmueble)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrecioInmueble)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreEmpleado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreEmpleado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ApeEmpleado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ApeEmpleado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MontoCuotas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MontoCuotas)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ContratoId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
